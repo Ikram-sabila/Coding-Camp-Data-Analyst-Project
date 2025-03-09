@@ -59,3 +59,9 @@ streamlit run dashboard.py
 Aplikasi akan terbuka secara otomatis di browser dengan alamat:
 
 🔗 [http://localhost:8501](http://localhost:8501)
+
+## 📞 **Kontak & Dukungan**
+Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya di:
+📧 Email: ikramsabila@gmail.com  
+🐙 GitHub: [Ikram-sabila](https://github.com/Ikram-sabila)  
+Terima kasih
