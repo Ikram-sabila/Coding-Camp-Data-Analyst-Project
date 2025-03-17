@@ -52,7 +52,10 @@ pip install -r requirements.txt
 
 ### 4️⃣ Jalankan Aplikasi Streamlit
 
+Masuk ke folder `dashboard` terlebih dahulu:
+
 ```sh
+cd dashboard
 streamlit run dashboard.py
 ```
 
